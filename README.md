@@ -1,6 +1,6 @@
 ## Book Recommendation System Project
 
-![image.png]([attachment:image.png](https://github.com/kamaupaul/BOOK-RECOMMENDER-SYSTEM./blob/main/download.png))
+![image.png](https://github.com/kamaupaul/BOOK-RECOMMENDER-SYSTEM./blob/main/download.png)
 
 ### Introduction
 In today's digital age, the abundance of literature presents both opportunities and challenges for readers. Navigating through vast collections of books can often be overwhelming, leading to missed opportunities for discovering content that aligns with individual preferences. To address this issue, the Book Recommendation System project aims to develop an intelligent platform that leverages data science and machine learning techniques to provide personalized book recommendations. By analyzing user behavior, book metadata, and historical interactions, the system seeks to enhance the reading experience by offering tailored suggestions that cater to each user's unique tastes.
