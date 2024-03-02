@@ -93,3 +93,4 @@ The Bourne Ultimatum
 
 Thank you for exploring my Book Recommendation System project! To dive deeper into the code and data analysis, check out the Jupyter Notebook file [here](https://github.com/kamaupaul/BOOK-RECOMMENDER-SYSTEM./blob/main/Recommender_system.ipynb). Feel free to explore other project files in the repository as well.
 
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/paul-njuguna-63a869185)
