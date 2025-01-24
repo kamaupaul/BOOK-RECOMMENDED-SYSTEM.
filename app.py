@@ -93,7 +93,7 @@ with col2:
                     st.write(f"  **Author:** {rec['author']}")
                     st.write(f"  **Year of Publication:** {rec['year']}")
                     st.write("  **Summary:**")
-                    st.image(rec['url'], caption=rec['title'], use_column_width=True)
+                    st.image(rec['url'], caption=rec['title'], use_container_width=True)
             else:
                 st.write("No recommendations found.")
         else:
